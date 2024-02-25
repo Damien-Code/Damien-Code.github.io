@@ -1,0 +1,35 @@
+body {
+    font-family: monospace;
+    background-color: gainsboro;
+  }
+  
+  
+  table {
+      border: 2px solid darkorchid;
+      margin: auto;
+      width: 650px;
+      }
+  
+  thead {
+    background-color: plum;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  td {
+    border-top: 1px solid darkorchid;
+  
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: center;
+    color: darkorchid;
+  }
+  
+  .code {
+    background-color: beige;
+  }
