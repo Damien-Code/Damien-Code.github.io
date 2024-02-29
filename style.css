@@ -1,0 +1,103 @@
+.title {
+    text-align: center;
+}
+
+body {
+    margin: 0 10%;
+    display: block;
+}
+
+.container{
+    border: 2px solid black;
+    margin:  10px auto;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.heading {
+    text-align: left;
+    font-weight: 25px;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.box1 {
+    color: white;
+    background-color: #2d5dcc;
+    width: 32%;
+    display: inline-block;
+    margin: 20px auto;
+    height: 100px;
+}
+
+.box2 {
+    color: white;
+    background-color: #d957d9;
+    width: 32%;
+    display: inline-block;
+    margin: 20px auto;
+    height: 100px;
+}
+
+.box3 {
+    color: white;
+    background-color: #4fe0b0;
+    width: 32%;
+    display: inline-block;
+    margin: 20px auto;
+    height: 100px;
+}
+
+.box4 {
+    color: white;
+    background-color: #efd9ca;
+    width: 32%;
+    display: inline-block;
+    margin: 20px auto;
+    height: 100px;
+}
+
+.color-label {
+    text-align: center;
+}
+
+.color-hex {
+    text-align: center;
+}
+
+.font-title {
+    text-decoration: underline;
+}
+
+.font-box{
+    width: 45%;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.oswald {
+    font-family: oswald;
+}
+
+.libre-baskerville {
+    font-family: "Libre Baskerville";
+}
+
+.kode-mono {
+    font-family: "Kode Mono";
+}
+
+.style-container {
+    padding-left: 20px;
+    
+}
